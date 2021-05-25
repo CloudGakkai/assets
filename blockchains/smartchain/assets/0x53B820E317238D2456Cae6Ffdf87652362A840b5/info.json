@@ -1,0 +1,33 @@
+{
+  "name": "CloudGakkai Token",
+  "website": "https://token.cloudgakkai.dev",
+  "description": "$CGT brings inovation and give solution in FinTech industry for every digital freelancer such as Developer or Designer to get more profit.",
+  "socials": [
+      {
+          "name": "Twitter",
+          "url": "https://twitter.com/CloudGakkai"
+      },
+      {
+          "name": "Medium",
+          "url": "https://cgtoken.medium.com/"
+      },
+      {
+          "name": "Discord",
+          "url": "https://discord.gg/RuBT3SSqsa"
+      },
+      {
+          "name": "Telegram",
+          "url": "https://t.me/CGTToken"
+      },
+      {
+          "name": "Reddit",
+          "url": "https://www.reddit.com/r/CloudGakkaiToken/"
+      }
+  ],
+  "explorer": "https://bscscan.com/token/0x53B820E317238D2456Cae6Ffdf87652362A840b5",
+  "type": "BEP20",
+  "symbol": "CGT",
+  "decimals": 9,
+  "status": "active",
+  "id": "0x53B820E317238D2456Cae6Ffdf87652362A840b5"
+}
